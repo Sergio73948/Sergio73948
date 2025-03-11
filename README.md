@@ -1,12 +1,61 @@
-- 👋 Hi, I’m @Sergio73948
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+1
 
-<!---
-Sergio73948/Sergio73948 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+gsap.to ([cordWrapper, ribbon], {
+
+2
+
+opacity: 0,
+
+3
+
+duration: 0.5,
+
+4
+
+onComplete: () => {
+
+5
+
+cordWrapper.style.display = "none
+
+6
+
+ribbon.style.display = "none";
+
+7
+
+}
+
+8
+
+});1
+
+gsap.to ([cordWrapper, ribbon], {
+
+2
+
+opacity: 0,
+
+3
+
+duration: 0.5,
+
+4
+
+onComplete: () => {
+
+5
+
+cordWrapper.style.display = "none
+
+6
+
+ribbon.style.display = "none";
+
+7
+
+}
+
+8
+
+});
